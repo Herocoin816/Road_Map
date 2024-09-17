@@ -15,7 +15,7 @@
 - [Japanese](https://www.wenyanet.com/opensource/ja/6304f1549168d4612c5c5064.html)
 - [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
 - [Telugu](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_tel.md) 
-- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
+- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md) 
 - [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md)
 - [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md)
 
