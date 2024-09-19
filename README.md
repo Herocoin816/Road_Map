@@ -17,7 +17,7 @@
 - [Telugu](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_tel.md) 
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md)
-- [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md)
+- [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md) 
 
 </details>
 
